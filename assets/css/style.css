@@ -1,5 +1,17 @@
-.crystal-image {
-    width: 300px;
-    height: 300px;
-  }
+/* #crystals {
+    width: 20px;
+    height: 20px;
+  } */
 
+.crystal-image {
+    width: 200px;
+    height: 50px;
+    border: black;
+    margin: 10 px;
+    padding: 1px;
+}
+
+.jumbotron {
+  background-color: purple; 
+  color: white;
+}
